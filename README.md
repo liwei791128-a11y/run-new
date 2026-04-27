@@ -1,4 +1,4 @@
-备份H3C交换机配置的python程序
-可通过交换IP、SSH端口号、SSH用户名、SSH密码连接交换机
-尝试不同的编码方式更行解码，来适应不同品牌交换机的配置
-通过H3C交换机“display current-configuration”命令获取当前配置
+备份H3C交换机配置的python程序;
+可通过交换IP、SSH端口号、SSH用户名、SSH密码连接交换机;
+尝试不同的编码方式更行解码，来适应不同品牌交换机的配置;
+通过H3C交换机“display current-configuration”命令获取当前配置;
